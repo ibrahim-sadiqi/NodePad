@@ -15,7 +15,7 @@ NodePad+ is a lightweight and customizable text editor designed for simplicity a
 
 To install NodePad, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Eblali/NodePad.git`
+1. Clone the repository: `git clone https://github.com/ibrahim-sadiqi/NodePad.git`
 
 
 ## Usage
@@ -36,5 +36,5 @@ We welcome contributions from the community to help improve NodePad. If you woul
 
 ## Contact
 
-For any questions or inquiries, please contact [Eblali](https://github.com/Eblali).
+For any questions or inquiries, please contact [Eblali](https://github.com/ibrahim-sadiqi).
 
