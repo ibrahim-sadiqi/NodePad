@@ -36,5 +36,5 @@ We welcome contributions from the community to help improve NodePad. If you woul
 
 ## Contact
 
-For any questions or inquiries, please contact [Eblali](https://github.com/ibrahim-sadiqi).
+For any questions or inquiries, please contact [Ibrahim Sadiqi](https://github.com/ibrahim-sadiqi).
 
