@@ -4,7 +4,11 @@ NodePad+ is a simple text editor built with Python.
 
 ## Overview
 
-NodePad+ is a lightweight and customizable text editor designed for simplicity and ease of use. It offers basic text editing features and can be extended.
+I worked on this project while learning Python on Udemy. Thanks to Udemy for providing a great learning experience.
+This project was a valuable way to explore PyQt6 for designing and building desktop applications.
+
+NodePad+ is a lightweight and customizable text editor designed for simplicity and ease of use.
+It offers essential text editing features and can be extended for additional functionality.
 
 ## Features
 
